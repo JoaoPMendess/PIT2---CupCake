@@ -68,7 +68,7 @@ git clone https://github.com/seuusuario/cupcake-store.git
 Configure o ambiente:
 Certifique-se de ter PHP e MySQL instalados.
 Crie um banco de dados no MySQL e importe o arquivo projetopit.sql.
-![Diagrama tabelas](https://ibb.co/pxPwmV3)
+![Diagrama tabelas](https://i.ibb.co/xDsL49M/diagramatabelas.png)
 Atualize as configurações de conexão no arquivo db.php (localizado na pasta include/).
 Inicie um servidor local:
 Acesse o projeto via navegador: http://localhost/cupcake-store.
