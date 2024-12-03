@@ -1,0 +1,143 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f8f9fc;
+    color: #5a5c69;
+    margin: 0;
+}
+h1.h3 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    color: #4e73df;
+    text-decoration: none;
+}
+.btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+    color: #fff;
+}
+.btn-primary:hover {
+    background-color: #2e59d9;
+    border-color: #2653d4;
+}
+.card {
+    border: 1px solid #e3e6f0;
+    border-radius: 0.35rem;
+    background-color: #fff;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+}
+.card-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+    padding: 0.75rem 1.25rem;
+    font-weight: 700;
+    color: #4e73df;
+}
+.card-body {
+    padding: 1.25rem;
+}
+.text-gray-800 {
+    color: #5a5c69 !important;
+}
+.text-primary {
+    color: #4e73df !important;
+}
+.text-success {
+    color: #1cc88a !important;
+}
+.text-info {
+    color: #36b9cc !important;
+}
+.text-warning {
+    color: #f6c23e !important;
+}
+
+.text-xs {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.font-weight-bold {
+    font-weight: 700 !important;
+}
+
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+.progress {
+    display: flex;
+    overflow: hidden;
+    height: 0.5rem;
+    margin-top: 0.25rem;
+    font-size: 0.75rem;
+    background-color: #e9ecef;
+    border-radius: 0.35rem;
+}
+
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #36b9cc;
+}
+
+.bg-info {
+    background-color: #36b9cc !important;
+}
+
+.shadow {
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+
+.modal-content {
+    border: none;
+    border-radius: 0.35rem;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+}
+
+.modal-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+    padding: 1rem;
+}
+
+.modal-footer {
+    background-color: #f8f9fc;
+    border-top: 1px solid #e3e6f0;
+    padding: 1rem;
+}
+
+footer.sticky-footer {
+    background-color: #f8f9fc;
+    padding: 1rem;
+    border-top: 1px solid #e3e6f0;
+    text-align: center;
+}
+
+.scroll-to-top {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    text-align: center;
+    color: #fff;
+    background-color: #4e73df;
+    border-radius: 50%;
+}
+.text-gray-300{color:#dddfeb!important}
